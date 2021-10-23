@@ -1,6 +1,6 @@
 ### 🌻 Hi, I'm Danny - AKA unknown 🙂
 
-## I am a Student, Programmer and I live in England!
+## I am a Student, Programmer and I live in England :)
 
 - 🦞 Now I'm learning CSS and after JavaScript
 - 🐾 I'm looking for someone who want to do become friends
