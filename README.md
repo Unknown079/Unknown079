@@ -1,12 +1,12 @@
 ### 🌻 Hi, I'm Danny - AKA unknown 🙂
 
-## I am a Student, Programmer and I live in England :)
+## I'm a Student, Programmer and I live in England :)
 
-- 🦞 Now I'm learning CSS and after JavaScript
+- 🦞 Now I'm learning C++
 - 🐾 I'm looking for someone who want to do become friends
-- 🌙 I like to code and solve programming problems
+- 🌙 I like to code and solve programming/maths problems
 - 💜 My goal is to become better than MILK (MY GAY FRIEND)
-- 🥥 I truly love to learn, I want to become a High-Level Programmer and learn Hacking
+- 🥥 I really like to learn but me lazy sometimes..
 
 ### Connect with me:
 
