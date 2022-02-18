@@ -4,9 +4,9 @@
 
 - 🦞 Now I'm learning C++
 - 🐾 I'm looking for someone who want to become friends
-- 🌙 I like to code and solve programming/maths problems
+- 🌙 I like to code and learn but me lazy sometimes.. :(
 - 💜 My goal is to become better than MILK (MY GAY FRIEND)
-- 🥥 I really like to learn but me lazy sometimes..
+- 🥥 Future projects: Encryption app, Personal Website 
 
 ### Connect with me:
 
