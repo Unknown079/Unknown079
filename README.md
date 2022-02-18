@@ -3,7 +3,7 @@
 ## I'm a Student, Programmer and I live in England :)
 
 - 🦞 Now I'm learning C++
-- 🐾 I'm looking for someone who want to do become friends
+- 🐾 I'm looking for someone who want to become friends
 - 🌙 I like to code and solve programming/maths problems
 - 💜 My goal is to become better than MILK (MY GAY FRIEND)
 - 🥥 I really like to learn but me lazy sometimes..
